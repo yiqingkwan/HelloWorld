@@ -1,1 +1,1 @@
-print ("Hello World! My name is Yi Qing Kwan")
+print ("Hello World! My name is Yi Qing Kwan.")
